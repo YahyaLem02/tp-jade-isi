@@ -28,7 +28,6 @@ Une classe `Main` permet de lancer les agents depuis Java directement.
 ### I.1 AgentVendeur.java
 
 ```java
-package agents;
 
 import jade.core.Agent;
 import jade.core.behaviours.CyclicBehaviour;
@@ -66,7 +65,6 @@ public class AgentVendeur extends Agent {
 ### I.2 AgentAcheteur.java
 
 ```java
-package agents;
 
 import jade.core.Agent;
 import jade.core.behaviours.OneShotBehaviour;
@@ -98,7 +96,7 @@ public class AgentAcheteur extends Agent {
 ### I.3 AgentObservateur.java
 
 ```java
-package agents;
+
 
 import jade.core.Agent;
 import jade.core.behaviours.CyclicBehaviour;
@@ -133,7 +131,6 @@ public class AgentObservateur extends Agent {
 ## II. Classe Main pour lancer les agents depuis Java
 
 ```java
-package agents;
 
 import jade.core.Profile;
 import jade.core.ProfileImpl;
