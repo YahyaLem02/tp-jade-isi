@@ -274,13 +274,4 @@ acheteur a reçu la réponse : Réponse du vendeur : Produit disponible !
 observateur : Observation du système à [date/heure]
 ```
 
-## Correction des erreurs principales
-
-1. **ClassNotFoundException** : Corrigée par la bonne structure de packages
-2. **Communication entre agents** : Corrigée avec AID correcte
-3. **Synchronisation** : Ajout d'un délai pour l'initialisation
-4. **Classpath** : Instructions claires pour la compilation et l'exécution
-
----
-
 **Intelligence Artificielle Distribuée - Ingénierie des Connaissances**
